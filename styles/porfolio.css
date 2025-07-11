@@ -136,10 +136,17 @@ main section{
     border-radius: 10px;
 }
 
+.resume-container{
+    display: flex;
+    gap: 100px;
+}
 
-
-
-
-
+.education-description, .edu-sub-title{
+    font-size: 16px;
+    color: #757575;
+}
+.resume-download{
+    margin: 50px 0px;
+}
 
 
